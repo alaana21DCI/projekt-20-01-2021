@@ -303,7 +303,11 @@ section {
 
 /* BLOG-1  */
 /* SECTIONS */
-
+.blog-wrapper {
+  max-width: 1200px;
+  background-color: white;
+  margin: 0 auto;
+}
 /* GALLERY SECTION */
 
 .gallery-section__imges {
