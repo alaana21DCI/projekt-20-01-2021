@@ -7,6 +7,9 @@ ich habe aber diese Webseite responsive gemacht :)
 
 das my final project for HTML und CSS bei DCI.
 
+# Auf dribble.com die Muster-Seite :
+link zu ORGINALE SEITE:ORGINALE SEITE (MUSTER):https://dribbble.com/shots/15377355-Food-truck-Korean-online-food-ordering-platform
+# Auf GitHub meine Seite besuchen :
+link zu meiner Seite: https://alaana21dci.github.io/projekt-20-01-2021/index.html
 
-ORGINALE SEITE (MUSTER):https://dribbble.com/shots/15377355-Food-truck-Korean-online-food-ordering-platform
-ONLINE: https://alaana21dci.github.io/projekt-20-01-2021/index.html
+RESPONSIVE!!
